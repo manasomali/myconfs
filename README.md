@@ -6,4 +6,4 @@
 - https://www.lunarvim.org/
 
 ## alacritty
--https://github.com/alacritty/alacritty
+- https://github.com/alacritty/alacritty
